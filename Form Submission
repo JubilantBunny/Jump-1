@@ -1,0 +1,17 @@
+Server side used in form to handle transferring submission. 
+
+<form action="action_page.php">
+  Username:<br>
+  <input type="text" name="username"><br>
+  E-mail:<br>
+  <input type="text" name="e-mail"><br>
+    Password:<br>
+  <input type="text" name="password"><br>
+    Re-enter Password:<br>
+  <input type="text" name="re-enter password"><br>
+    Verification:<br>
+  <input type="text" name="verification"><br>
+    Birthday:<br>
+  <input type="text" name="birthday"><br><br>
+  <input type="submit" value="Submit">
+</form>
