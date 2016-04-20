@@ -1,0 +1,45 @@
+/****************************************
+ Banner
+*****************************************/
+
+work in progress
+
+/****************************************
+ Main
+*****************************************/
+
+body {}
+
+/****************************************
+ Footer
+*****************************************/
+
+work in progress
+
+/****************************************
+ Details
+*****************************************/
+
+::-webkit-scrollbar {
+width: 7px; 
+height: 7px;
+background: #fff; 
+border: 2px solid #fff;
+}
+
+::-webkit-scrollbar-thumb {
+background: #fff;  
+border: 1px solid #fff;
+}
+
+::-moz-scrollbar {
+width: 7px; 
+height: 7px;
+background: #fff; 
+border: 2px solid #fff;
+}
+
+::-moz-scrollbar-thumb { 
+ background: #fff;  
+border: 2px solid #fff;
+ }
