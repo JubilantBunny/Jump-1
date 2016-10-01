@@ -1,2 +1,2 @@
 # Jump-1
-Some samples
+Here's a sample of my unfinished work.
